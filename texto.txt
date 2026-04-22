@@ -1,1 +1,2 @@
 Primeiro arquivo de Git
+Alterando o arquivo para a atividade 07
